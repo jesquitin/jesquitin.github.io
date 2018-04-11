@@ -1,0 +1,28 @@
+/****************************Main Home page****************************************/
+
+* {
+    margin:0;
+    padding:0;
+}
+
+.wrapper {
+    padding-left: 18px;
+    padding-right: 18px;
+    max-width: 692px;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+
+.primary-nav {
+    float:right;
+    top:0;
+}
+
+.primary-nav li {
+    list-style:none;
+    float:right;
+    padding:20px;
+    top:0;
+}
